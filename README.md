@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mehul Kumar, currently pursuing a B.Tech degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology. My main domain is Flutter development for both iOS and Android platforms. Alongside this, I have a solid understanding of Java and C programming languages. I also have a growing interest in graphic designing.
+Hi, I'm Mehul Kumar, currently pursuing a B.Tech degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology.
 
 
 ## 🌐 Socials:
